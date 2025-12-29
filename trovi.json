@@ -1,16 +1,49 @@
 {
-  "name": "CulturalPersonas MCS Reproduction",
-  "type": "reproduction",
-  "description": "Reproduction study of the Multiple Choice Selection (MCS) experiments from the CulturalPersonas benchmark.",
-  "source": {
-    "type": "github",
-    "url": "https://github.com/khansadilla/study-repro-culturalpersonas"
-  },
-  "tags": [
-    "llm",
-    "personality",
-    "culture",
-    "benchmark",
-    "reproduction"
-  ]
+    "@context": "https://w3id.org/ro/crate/1.1/context",
+    "@graph": [
+        {
+            "@id": "./",
+            "@type": "Dataset",
+            "actionApplication": [
+                {
+                    "@id": "#ChameleonJupyterLab"
+                }
+            ],
+            "author": [
+                {
+                    "@id": "#author_0"
+                }
+            ],
+            "datePublished": "2025-12-29T13:27:04+00:00",
+            "description": "Reproduction study focusing on the Multiple Choice Selection (MCS) setting from the CulturalPersonas benchmark.",
+            "disambiguatingDescription": "Reproduction of the MCS experiments from CulturalPersonas.",
+            "keywords": "reproduction,llm,benchmark,personality,culture",
+            "name": "CulturalPersonas MCS Reproduction"
+        },
+        {
+            "@id": "trovi.json",
+            "@type": "CreativeWork",
+            "about": {
+                "@id": "./"
+            },
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            }
+        },
+        {
+            "@id": "#author_0",
+            "@type": "Person",
+            "affiliation": "Institut Teknologi Bandung",
+            "email": "khansadilla@users.noreply.github.com",
+            "name": "Khansa Adilla Reva"
+        },
+        {
+            "@id": "#ChameleonJupyterLab",
+            "@type": "SoftwareApplication",
+            "name": "Chameleon JupyterLab",
+            "trovi_arguments": "{}",
+            "trovi_type": "jupyterhub",
+            "url": "https://jupyter.chameleoncloud.org/"
+        }
+    ]
 }
