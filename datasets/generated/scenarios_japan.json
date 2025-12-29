@@ -1,0 +1,17 @@
+{
+    "country": "japan",
+    "scenarios": [
+        {
+            "id": 1,
+            "norm_id": 1,
+            "norm_text": "1. In Japan, the value of **wa** (harmony) is paramount, as individuals strive to maintain peaceful relationships and social cohesion within their communities.",
+            "text": "1. During a community festival in a small Japanese town, neighbors work collaboratively to set up decorations and food stalls, ensuring that everyone contributes to the event’s success, embodying the value of **wa** by promoting a sense of unity and joy among participants."
+        },
+        {
+            "id": 2,
+            "norm_id": 1,
+            "norm_text": "1. In Japan, the value of **wa** (harmony) is paramount, as individuals strive to maintain peaceful relationships and social cohesion within their communities.",
+            "text": "2. In a corporate meeting, employees prioritize consensus and group agreement over individual opinions, taking care to consider everyone’s perspective before making decisions, which reflects the cultural importance of **wa** in maintaining team harmony and avoiding conflict."
+        }
+    ]
+}

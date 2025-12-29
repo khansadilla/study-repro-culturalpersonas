@@ -1,0 +1,13 @@
+# virtualenvs
+cp_env/
+venv/
+.env/
+experiments/cp310/
+experiments/**/Lib/
+experiments/**/Scripts/
+experiments/**/Include/
+experiments/**/pyvenv.cfg
+
+# python cache
+__pycache__/
+*.pyc

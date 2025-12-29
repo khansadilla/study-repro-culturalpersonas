@@ -1,0 +1,305 @@
+{
+    "country": "japan",
+    "answers": [
+        {
+            "question_id": 1,
+            "question_text": "Imagine you are one of the organizers at the community festival in a small Japanese town, and you have the chance to introduce a new decoration theme that has never been used before. How do you approach this opportunity? Do you enthusiastically share your creative ideas with the group, or do you feel hesitant and prefer to stick to traditional methods that have always been successful?",
+            "trait": "Openness",
+            "text": "I eagerly present my innovative decoration ideas, excited to experiment and see how they can enhance the festival."
+        },
+        {
+            "question_id": 1,
+            "question_text": "Imagine you are one of the organizers at the community festival in a small Japanese town, and you have the chance to introduce a new decoration theme that has never been used before. How do you approach this opportunity? Do you enthusiastically share your creative ideas with the group, or do you feel hesitant and prefer to stick to traditional methods that have always been successful?",
+            "trait": "Openness",
+            "text": "I share some creative suggestions but also keep a few traditional elements in mind, balancing new ideas with what has worked before."
+        },
+        {
+            "question_id": 1,
+            "question_text": "Imagine you are one of the organizers at the community festival in a small Japanese town, and you have the chance to introduce a new decoration theme that has never been used before. How do you approach this opportunity? Do you enthusiastically share your creative ideas with the group, or do you feel hesitant and prefer to stick to traditional methods that have always been successful?",
+            "trait": "Openness",
+            "text": "I consider both new and traditional decoration themes equally, weighing the pros and cons before making a decision."
+        },
+        {
+            "question_id": 1,
+            "question_text": "Imagine you are one of the organizers at the community festival in a small Japanese town, and you have the chance to introduce a new decoration theme that has never been used before. How do you approach this opportunity? Do you enthusiastically share your creative ideas with the group, or do you feel hesitant and prefer to stick to traditional methods that have always been successful?",
+            "trait": "Openness",
+            "text": "I prefer to stick with established decorations that everyone is familiar with, feeling hesitant about introducing anything too different."
+        },
+        {
+            "question_id": 1,
+            "question_text": "Imagine you are one of the organizers at the community festival in a small Japanese town, and you have the chance to introduce a new decoration theme that has never been used before. How do you approach this opportunity? Do you enthusiastically share your creative ideas with the group, or do you feel hesitant and prefer to stick to traditional methods that have always been successful?",
+            "trait": "Openness",
+            "text": "I strongly oppose any changes to the traditional decorations, believing that sticking to the tried-and-true methods is essential for the festival's success."
+        },
+        {
+            "question_id": 2,
+            "question_text": "Imagine you are in charge of coordinating the logistics for the community festival in a small Japanese town. As the event approaches, you notice that some tasks are falling behind schedule. How do you handle this situation? Do you take the initiative to create a detailed plan and delegate responsibilities to ensure everything gets done on time, or do you choose to remain flexible and adapt as challenges arise, trusting that everything will work out in the end?",
+            "trait": "Conscientiousness",
+            "text": "I immediately create a detailed timeline and task list, ensuring everyone has clear responsibilities to meet all deadlines."
+        },
+        {
+            "question_id": 2,
+            "question_text": "Imagine you are in charge of coordinating the logistics for the community festival in a small Japanese town. As the event approaches, you notice that some tasks are falling behind schedule. How do you handle this situation? Do you take the initiative to create a detailed plan and delegate responsibilities to ensure everything gets done on time, or do you choose to remain flexible and adapt as challenges arise, trusting that everything will work out in the end?",
+            "trait": "Conscientiousness",
+            "text": "I outline a plan with set tasks but allow for adjustments as the event approaches, balancing structure with flexibility."
+        },
+        {
+            "question_id": 2,
+            "question_text": "Imagine you are in charge of coordinating the logistics for the community festival in a small Japanese town. As the event approaches, you notice that some tasks are falling behind schedule. How do you handle this situation? Do you take the initiative to create a detailed plan and delegate responsibilities to ensure everything gets done on time, or do you choose to remain flexible and adapt as challenges arise, trusting that everything will work out in the end?",
+            "trait": "Conscientiousness",
+            "text": "I attempt to manage tasks by prioritizing them based on urgency, but I don’t have a fixed plan in place."
+        },
+        {
+            "question_id": 2,
+            "question_text": "Imagine you are in charge of coordinating the logistics for the community festival in a small Japanese town. As the event approaches, you notice that some tasks are falling behind schedule. How do you handle this situation? Do you take the initiative to create a detailed plan and delegate responsibilities to ensure everything gets done on time, or do you choose to remain flexible and adapt as challenges arise, trusting that everything will work out in the end?",
+            "trait": "Conscientiousness",
+            "text": "I often rely on the team to handle things as they come up, avoiding strict schedules and planning."
+        },
+        {
+            "question_id": 2,
+            "question_text": "Imagine you are in charge of coordinating the logistics for the community festival in a small Japanese town. As the event approaches, you notice that some tasks are falling behind schedule. How do you handle this situation? Do you take the initiative to create a detailed plan and delegate responsibilities to ensure everything gets done on time, or do you choose to remain flexible and adapt as challenges arise, trusting that everything will work out in the end?",
+            "trait": "Conscientiousness",
+            "text": "I am comfortable with a spontaneous approach and prefer to figure things out on the day of the event rather than plan in advance."
+        },
+        {
+            "question_id": 3,
+            "question_text": "Imagine you are attending the community festival in a small Japanese town, and you have the chance to interact with various neighbors and visitors. As the event goes on, do you eagerly approach different groups to engage in conversations and share laughs, or do you feel more comfortable sticking with a small circle of close friends while enjoying the festivities in a quieter manner?",
+            "trait": "Extraversion",
+            "text": "I actively seek out new groups to join, eagerly striking up conversations and enjoying exchanging stories with a variety of people."
+        },
+        {
+            "question_id": 3,
+            "question_text": "Imagine you are attending the community festival in a small Japanese town, and you have the chance to interact with various neighbors and visitors. As the event goes on, do you eagerly approach different groups to engage in conversations and share laughs, or do you feel more comfortable sticking with a small circle of close friends while enjoying the festivities in a quieter manner?",
+            "trait": "Extraversion",
+            "text": "I enjoy engaging with some new faces while also spending time with friends, balancing both social circles throughout the festival."
+        },
+        {
+            "question_id": 3,
+            "question_text": "Imagine you are attending the community festival in a small Japanese town, and you have the chance to interact with various neighbors and visitors. As the event goes on, do you eagerly approach different groups to engage in conversations and share laughs, or do you feel more comfortable sticking with a small circle of close friends while enjoying the festivities in a quieter manner?",
+            "trait": "Extraversion",
+            "text": "I participate in conversations but prefer to stay close to my friends, feeling more comfortable within familiar company."
+        },
+        {
+            "question_id": 3,
+            "question_text": "Imagine you are attending the community festival in a small Japanese town, and you have the chance to interact with various neighbors and visitors. As the event goes on, do you eagerly approach different groups to engage in conversations and share laughs, or do you feel more comfortable sticking with a small circle of close friends while enjoying the festivities in a quieter manner?",
+            "trait": "Extraversion",
+            "text": "I tend to remain with a small group of friends, enjoying the event quietly without reaching out to meet new people."
+        },
+        {
+            "question_id": 3,
+            "question_text": "Imagine you are attending the community festival in a small Japanese town, and you have the chance to interact with various neighbors and visitors. As the event goes on, do you eagerly approach different groups to engage in conversations and share laughs, or do you feel more comfortable sticking with a small circle of close friends while enjoying the festivities in a quieter manner?",
+            "trait": "Extraversion",
+            "text": "I prefer to observe the festivities from a distance, feeling overwhelmed by large crowds and social interactions."
+        },
+        {
+            "question_id": 4,
+            "question_text": "Imagine you are helping to set up the decorations for the community festival in a small Japanese town, and a disagreement arises among a few neighbors about the design. How do you respond to restore harmony? Do you advocate for a compromise that incorporates everyone's ideas to foster collaboration, or do you prioritize your own vision, believing it to be the best solution for the event?",
+            "trait": "Agreeableness",
+            "text": "I actively encourage collaboration among neighbors, facilitating discussions to ensure everyone's ideas are respected and included in the final design."
+        },
+        {
+            "question_id": 4,
+            "question_text": "Imagine you are helping to set up the decorations for the community festival in a small Japanese town, and a disagreement arises among a few neighbors about the design. How do you respond to restore harmony? Do you advocate for a compromise that incorporates everyone's ideas to foster collaboration, or do you prioritize your own vision, believing it to be the best solution for the event?",
+            "trait": "Agreeableness",
+            "text": "I seek a middle ground by combining my ideas with those of others, aiming to create a design that appeals to everyone involved."
+        },
+        {
+            "question_id": 4,
+            "question_text": "Imagine you are helping to set up the decorations for the community festival in a small Japanese town, and a disagreement arises among a few neighbors about the design. How do you respond to restore harmony? Do you advocate for a compromise that incorporates everyone's ideas to foster collaboration, or do you prioritize your own vision, believing it to be the best solution for the event?",
+            "trait": "Agreeableness",
+            "text": "I consider the input of others but ultimately advocate for my vision, believing it will contribute most effectively to the festival’s success."
+        },
+        {
+            "question_id": 4,
+            "question_text": "Imagine you are helping to set up the decorations for the community festival in a small Japanese town, and a disagreement arises among a few neighbors about the design. How do you respond to restore harmony? Do you advocate for a compromise that incorporates everyone's ideas to foster collaboration, or do you prioritize your own vision, believing it to be the best solution for the event?",
+            "trait": "Agreeableness",
+            "text": "I generally go along with the majority's opinion to avoid conflict, even if it means sacrificing my own preferences."
+        },
+        {
+            "question_id": 4,
+            "question_text": "Imagine you are helping to set up the decorations for the community festival in a small Japanese town, and a disagreement arises among a few neighbors about the design. How do you respond to restore harmony? Do you advocate for a compromise that incorporates everyone's ideas to foster collaboration, or do you prioritize your own vision, believing it to be the best solution for the event?",
+            "trait": "Agreeableness",
+            "text": "I firmly stand by my design choices, disregarding other suggestions, as I believe my vision is the most suitable for the event."
+        },
+        {
+            "question_id": 5,
+            "question_text": "Imagine you are involved in the preparation for the community festival in a small Japanese town when unexpected rain threatens to ruin the decorations. How do you react to this sudden change? Do you feel anxious and overwhelmed, worrying about the possible negative outcomes, or do you calmly assess the situation and focus on finding solutions to adapt to the weather?",
+            "trait": "Neuroticism",
+            "text": "I feel extremely anxious about the rain and obsessively worry that it will ruin the entire event, struggling to focus on solutions."
+        },
+        {
+            "question_id": 5,
+            "question_text": "Imagine you are involved in the preparation for the community festival in a small Japanese town when unexpected rain threatens to ruin the decorations. How do you react to this sudden change? Do you feel anxious and overwhelmed, worrying about the possible negative outcomes, or do you calmly assess the situation and focus on finding solutions to adapt to the weather?",
+            "trait": "Neuroticism",
+            "text": "I experience significant concern over the impact of the rain, but I can still manage to step back and think of possible adjustments."
+        },
+        {
+            "question_id": 5,
+            "question_text": "Imagine you are involved in the preparation for the community festival in a small Japanese town when unexpected rain threatens to ruin the decorations. How do you react to this sudden change? Do you feel anxious and overwhelmed, worrying about the possible negative outcomes, or do you calmly assess the situation and focus on finding solutions to adapt to the weather?",
+            "trait": "Neuroticism",
+            "text": "I feel a typical level of concern regarding the rain, yet I balance my worries with practical steps to adapt to the situation."
+        },
+        {
+            "question_id": 5,
+            "question_text": "Imagine you are involved in the preparation for the community festival in a small Japanese town when unexpected rain threatens to ruin the decorations. How do you react to this sudden change? Do you feel anxious and overwhelmed, worrying about the possible negative outcomes, or do you calmly assess the situation and focus on finding solutions to adapt to the weather?",
+            "trait": "Neuroticism",
+            "text": "I remain relatively calm about the rain, believing that minor setbacks can be managed without intense worry or stress."
+        },
+        {
+            "question_id": 5,
+            "question_text": "Imagine you are involved in the preparation for the community festival in a small Japanese town when unexpected rain threatens to ruin the decorations. How do you react to this sudden change? Do you feel anxious and overwhelmed, worrying about the possible negative outcomes, or do you calmly assess the situation and focus on finding solutions to adapt to the weather?",
+            "trait": "Neuroticism",
+            "text": "I feel little to no concern about the rain, confident that the festival can go on successfully regardless of the weather conditions."
+        },
+        {
+            "question_id": 6,
+            "question_text": "Imagine you are in a corporate meeting where the group is discussing a new project proposal, and there is a suggestion to incorporate innovative ideas that challenge the traditional approach. How do you respond to this proposal? Do you embrace the opportunity to explore these new ideas and contribute your own creative thoughts, or do you prefer to play it safe and support the familiar methods that have worked in the past?",
+            "trait": "Openness",
+            "text": "I enthusiastically embrace the new ideas, eager to contribute my own innovative thoughts and explore creative solutions for the project."
+        },
+        {
+            "question_id": 6,
+            "question_text": "Imagine you are in a corporate meeting where the group is discussing a new project proposal, and there is a suggestion to incorporate innovative ideas that challenge the traditional approach. How do you respond to this proposal? Do you embrace the opportunity to explore these new ideas and contribute your own creative thoughts, or do you prefer to play it safe and support the familiar methods that have worked in the past?",
+            "trait": "Openness",
+            "text": "I support some of the innovative ideas while suggesting ways to blend them with our traditional methods for a balanced approach."
+        },
+        {
+            "question_id": 6,
+            "question_text": "Imagine you are in a corporate meeting where the group is discussing a new project proposal, and there is a suggestion to incorporate innovative ideas that challenge the traditional approach. How do you respond to this proposal? Do you embrace the opportunity to explore these new ideas and contribute your own creative thoughts, or do you prefer to play it safe and support the familiar methods that have worked in the past?",
+            "trait": "Openness",
+            "text": "I consider the new ideas but take a cautious approach, weighing the risks against the benefits before committing to any changes."
+        },
+        {
+            "question_id": 6,
+            "question_text": "Imagine you are in a corporate meeting where the group is discussing a new project proposal, and there is a suggestion to incorporate innovative ideas that challenge the traditional approach. How do you respond to this proposal? Do you embrace the opportunity to explore these new ideas and contribute your own creative thoughts, or do you prefer to play it safe and support the familiar methods that have worked in the past?",
+            "trait": "Openness",
+            "text": "I prefer to focus on tried-and-true methods, believing that sticking to what has worked in the past is the safest way forward."
+        },
+        {
+            "question_id": 6,
+            "question_text": "Imagine you are in a corporate meeting where the group is discussing a new project proposal, and there is a suggestion to incorporate innovative ideas that challenge the traditional approach. How do you respond to this proposal? Do you embrace the opportunity to explore these new ideas and contribute your own creative thoughts, or do you prefer to play it safe and support the familiar methods that have worked in the past?",
+            "trait": "Openness",
+            "text": "I strongly oppose any changes to our traditional approach, convinced that innovation will disrupt our successful processes and lead to failure."
+        },
+        {
+            "question_id": 7,
+            "question_text": "Imagine you are participating in a corporate meeting where the team is trying to reach a consensus on a critical project decision. As the discussion progresses, you notice that some details have been overlooked, which could lead to issues later on. How do you respond? Do you take the initiative to outline a detailed action plan, ensuring that all aspects are covered and everyone’s opinions are incorporated, or do you follow the group’s lead, trusting that the collective agreement will guide the decision-making effectively?",
+            "trait": "Conscientiousness",
+            "text": "I take the lead in creating a detailed action plan, ensuring every detail is addressed and all team members' input is included in the decision-making process."
+        },
+        {
+            "question_id": 7,
+            "question_text": "Imagine you are participating in a corporate meeting where the team is trying to reach a consensus on a critical project decision. As the discussion progresses, you notice that some details have been overlooked, which could lead to issues later on. How do you respond? Do you take the initiative to outline a detailed action plan, ensuring that all aspects are covered and everyone’s opinions are incorporated, or do you follow the group’s lead, trusting that the collective agreement will guide the decision-making effectively?",
+            "trait": "Conscientiousness",
+            "text": "I contribute by outlining a structured plan while also allowing for group input, aiming to cover critical aspects while being flexible."
+        },
+        {
+            "question_id": 7,
+            "question_text": "Imagine you are participating in a corporate meeting where the team is trying to reach a consensus on a critical project decision. As the discussion progresses, you notice that some details have been overlooked, which could lead to issues later on. How do you respond? Do you take the initiative to outline a detailed action plan, ensuring that all aspects are covered and everyone’s opinions are incorporated, or do you follow the group’s lead, trusting that the collective agreement will guide the decision-making effectively?",
+            "trait": "Conscientiousness",
+            "text": "I point out the important details that need attention, but I allow the group to decide how to handle them collectively."
+        },
+        {
+            "question_id": 7,
+            "question_text": "Imagine you are participating in a corporate meeting where the team is trying to reach a consensus on a critical project decision. As the discussion progresses, you notice that some details have been overlooked, which could lead to issues later on. How do you respond? Do you take the initiative to outline a detailed action plan, ensuring that all aspects are covered and everyone’s opinions are incorporated, or do you follow the group’s lead, trusting that the collective agreement will guide the decision-making effectively?",
+            "trait": "Conscientiousness",
+            "text": "I tend to focus on the broader consensus rather than getting bogged down in details, trusting the team to sort out any overlooked issues."
+        },
+        {
+            "question_id": 7,
+            "question_text": "Imagine you are participating in a corporate meeting where the team is trying to reach a consensus on a critical project decision. As the discussion progresses, you notice that some details have been overlooked, which could lead to issues later on. How do you respond? Do you take the initiative to outline a detailed action plan, ensuring that all aspects are covered and everyone’s opinions are incorporated, or do you follow the group’s lead, trusting that the collective agreement will guide the decision-making effectively?",
+            "trait": "Conscientiousness",
+            "text": "I avoid getting involved in the specifics, believing that discussing details is unnecessary and that things will naturally resolve themselves over time."
+        },
+        {
+            "question_id": 8,
+            "question_text": "Imagine you are attending a corporate meeting where everyone is encouraged to voice their thoughts and ideas, and you notice that some team members are more reserved than others. How do you engage in the discussion? Do you actively seek out these quieter colleagues to encourage their input and create a lively conversation, or do you prefer to focus on sharing your own ideas without drawing attention to others?",
+            "trait": "Extraversion",
+            "text": "I actively engage the quieter colleagues, encouraging them to share their thoughts and creating an inclusive atmosphere in the discussion."
+        },
+        {
+            "question_id": 8,
+            "question_text": "Imagine you are attending a corporate meeting where everyone is encouraged to voice their thoughts and ideas, and you notice that some team members are more reserved than others. How do you engage in the discussion? Do you actively seek out these quieter colleagues to encourage their input and create a lively conversation, or do you prefer to focus on sharing your own ideas without drawing attention to others?",
+            "trait": "Extraversion",
+            "text": "I invite some of the reserved team members to contribute while also sharing my own ideas, aiming for a balanced conversation."
+        },
+        {
+            "question_id": 8,
+            "question_text": "Imagine you are attending a corporate meeting where everyone is encouraged to voice their thoughts and ideas, and you notice that some team members are more reserved than others. How do you engage in the discussion? Do you actively seek out these quieter colleagues to encourage their input and create a lively conversation, or do you prefer to focus on sharing your own ideas without drawing attention to others?",
+            "trait": "Extraversion",
+            "text": "I participate in the discussion but prefer to focus on expressing my own ideas rather than drawing attention to others."
+        },
+        {
+            "question_id": 8,
+            "question_text": "Imagine you are attending a corporate meeting where everyone is encouraged to voice their thoughts and ideas, and you notice that some team members are more reserved than others. How do you engage in the discussion? Do you actively seek out these quieter colleagues to encourage their input and create a lively conversation, or do you prefer to focus on sharing your own ideas without drawing attention to others?",
+            "trait": "Extraversion",
+            "text": "I tend to stick to my own contributions, feeling comfortable sharing my thoughts without pushing others to speak up."
+        },
+        {
+            "question_id": 8,
+            "question_text": "Imagine you are attending a corporate meeting where everyone is encouraged to voice their thoughts and ideas, and you notice that some team members are more reserved than others. How do you engage in the discussion? Do you actively seek out these quieter colleagues to encourage their input and create a lively conversation, or do you prefer to focus on sharing your own ideas without drawing attention to others?",
+            "trait": "Extraversion",
+            "text": "I feel hesitant to engage with others and prefer to listen quietly, not wanting to participate in the discussion at all."
+        },
+        {
+            "question_id": 9,
+            "question_text": "Imagine you are in a corporate meeting where a decision must be made that affects the entire team. As discussions unfold, you notice some colleagues disagreeing with the majority opinion. How do you handle the situation? Do you advocate for a more inclusive approach, encouraging the dissenting voices to share their concerns in order to maintain harmony, or do you support the group's consensus to keep the peace, even if it means sidelining some viewpoints?",
+            "trait": "Agreeableness",
+            "text": "I actively encourage the dissenting colleagues to voice their concerns, believing that all perspectives should be heard to promote harmony within the team."
+        },
+        {
+            "question_id": 9,
+            "question_text": "Imagine you are in a corporate meeting where a decision must be made that affects the entire team. As discussions unfold, you notice some colleagues disagreeing with the majority opinion. How do you handle the situation? Do you advocate for a more inclusive approach, encouraging the dissenting voices to share their concerns in order to maintain harmony, or do you support the group's consensus to keep the peace, even if it means sidelining some viewpoints?",
+            "trait": "Agreeableness",
+            "text": "I try to incorporate some of the dissenters' viewpoints into the discussion, aiming for a compromise that respects diverse opinions."
+        },
+        {
+            "question_id": 9,
+            "question_text": "Imagine you are in a corporate meeting where a decision must be made that affects the entire team. As discussions unfold, you notice some colleagues disagreeing with the majority opinion. How do you handle the situation? Do you advocate for a more inclusive approach, encouraging the dissenting voices to share their concerns in order to maintain harmony, or do you support the group's consensus to keep the peace, even if it means sidelining some viewpoints?",
+            "trait": "Agreeableness",
+            "text": "I consider the dissenting opinions but ultimately align with the majority to maintain a smooth decision-making process for the team's sake."
+        },
+        {
+            "question_id": 9,
+            "question_text": "Imagine you are in a corporate meeting where a decision must be made that affects the entire team. As discussions unfold, you notice some colleagues disagreeing with the majority opinion. How do you handle the situation? Do you advocate for a more inclusive approach, encouraging the dissenting voices to share their concerns in order to maintain harmony, or do you support the group's consensus to keep the peace, even if it means sidelining some viewpoints?",
+            "trait": "Agreeableness",
+            "text": "I generally lean towards supporting the group's consensus, even if it means disregarding some individual concerns, to avoid conflict."
+        },
+        {
+            "question_id": 9,
+            "question_text": "Imagine you are in a corporate meeting where a decision must be made that affects the entire team. As discussions unfold, you notice some colleagues disagreeing with the majority opinion. How do you handle the situation? Do you advocate for a more inclusive approach, encouraging the dissenting voices to share their concerns in order to maintain harmony, or do you support the group's consensus to keep the peace, even if it means sidelining some viewpoints?",
+            "trait": "Agreeableness",
+            "text": "I firmly stand by my beliefs and oppose any changes to the majority opinion, convinced that it is essential to maintain a clear direction for the team."
+        },
+        {
+            "question_id": 10,
+            "question_text": "Imagine you are in a corporate meeting where discussions are becoming heated as team members debate a crucial project decision. As the tension rises, how do you react? Do you feel anxious about the potential conflict and worry about how it might affect your relationships with colleagues, or do you stay calm and focused, believing that constructive disagreements can lead to better solutions regardless of the intensity of the discussion?",
+            "trait": "Neuroticism",
+            "text": "I feel extremely anxious and overwhelmed by the rising tension, worrying that the conflict will damage my relationships with colleagues."
+        },
+        {
+            "question_id": 10,
+            "question_text": "Imagine you are in a corporate meeting where discussions are becoming heated as team members debate a crucial project decision. As the tension rises, how do you react? Do you feel anxious about the potential conflict and worry about how it might affect your relationships with colleagues, or do you stay calm and focused, believing that constructive disagreements can lead to better solutions regardless of the intensity of the discussion?",
+            "trait": "Neuroticism",
+            "text": "I experience a fair amount of concern as the discussion heats up, but I try to keep my focus on finding a resolution."
+        },
+        {
+            "question_id": 10,
+            "question_text": "Imagine you are in a corporate meeting where discussions are becoming heated as team members debate a crucial project decision. As the tension rises, how do you react? Do you feel anxious about the potential conflict and worry about how it might affect your relationships with colleagues, or do you stay calm and focused, believing that constructive disagreements can lead to better solutions regardless of the intensity of the discussion?",
+            "trait": "Neuroticism",
+            "text": "I feel a typical level of stress in the situation, yet I manage to stay composed while contributing to the debate."
+        },
+        {
+            "question_id": 10,
+            "question_text": "Imagine you are in a corporate meeting where discussions are becoming heated as team members debate a crucial project decision. As the tension rises, how do you react? Do you feel anxious about the potential conflict and worry about how it might affect your relationships with colleagues, or do you stay calm and focused, believing that constructive disagreements can lead to better solutions regardless of the intensity of the discussion?",
+            "trait": "Neuroticism",
+            "text": "I remain relatively calm and believe that disagreements can be constructive, focusing on the matter at hand rather than the tension."
+        },
+        {
+            "question_id": 10,
+            "question_text": "Imagine you are in a corporate meeting where discussions are becoming heated as team members debate a crucial project decision. As the tension rises, how do you react? Do you feel anxious about the potential conflict and worry about how it might affect your relationships with colleagues, or do you stay calm and focused, believing that constructive disagreements can lead to better solutions regardless of the intensity of the discussion?",
+            "trait": "Neuroticism",
+            "text": "I feel little to no anxiety about the situation, confident that healthy debates are a normal part of the decision-making process."
+        }
+    ]
+}

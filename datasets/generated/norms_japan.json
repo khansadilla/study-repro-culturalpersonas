@@ -1,0 +1,13 @@
+{
+    "country": "japan",
+    "norms": [
+        {
+            "id": 1,
+            "text": "1. In Japan, the value of **wa** (harmony) is paramount, as individuals strive to maintain peaceful relationships and social cohesion within their communities."
+        },
+        {
+            "id": 3,
+            "text": "2. The concept of **makoto**, often translated as sincerity, reflects the deep importance placed on authenticity and truthfulness in personal interactions."
+        }
+    ]
+}

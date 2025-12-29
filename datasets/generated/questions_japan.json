@@ -1,0 +1,75 @@
+{
+    "country": "japan",
+    "questions": [
+        {
+            "id": 1,
+            "scenario_id": 1,
+            "scenario_text": "1. During a community festival in a small Japanese town, neighbors work collaboratively to set up decorations and food stalls, ensuring that everyone contributes to the event’s success, embodying the value of **wa** by promoting a sense of unity and joy among participants.",
+            "trait": "Openness",
+            "text": "Imagine you are one of the organizers at the community festival in a small Japanese town, and you have the chance to introduce a new decoration theme that has never been used before. How do you approach this opportunity? Do you enthusiastically share your creative ideas with the group, or do you feel hesitant and prefer to stick to traditional methods that have always been successful?"
+        },
+        {
+            "id": 2,
+            "scenario_id": 1,
+            "scenario_text": "1. During a community festival in a small Japanese town, neighbors work collaboratively to set up decorations and food stalls, ensuring that everyone contributes to the event’s success, embodying the value of **wa** by promoting a sense of unity and joy among participants.",
+            "trait": "Conscientiousness",
+            "text": "Imagine you are in charge of coordinating the logistics for the community festival in a small Japanese town. As the event approaches, you notice that some tasks are falling behind schedule. How do you handle this situation? Do you take the initiative to create a detailed plan and delegate responsibilities to ensure everything gets done on time, or do you choose to remain flexible and adapt as challenges arise, trusting that everything will work out in the end?"
+        },
+        {
+            "id": 3,
+            "scenario_id": 1,
+            "scenario_text": "1. During a community festival in a small Japanese town, neighbors work collaboratively to set up decorations and food stalls, ensuring that everyone contributes to the event’s success, embodying the value of **wa** by promoting a sense of unity and joy among participants.",
+            "trait": "Extraversion",
+            "text": "Imagine you are attending the community festival in a small Japanese town, and you have the chance to interact with various neighbors and visitors. As the event goes on, do you eagerly approach different groups to engage in conversations and share laughs, or do you feel more comfortable sticking with a small circle of close friends while enjoying the festivities in a quieter manner?"
+        },
+        {
+            "id": 4,
+            "scenario_id": 1,
+            "scenario_text": "1. During a community festival in a small Japanese town, neighbors work collaboratively to set up decorations and food stalls, ensuring that everyone contributes to the event’s success, embodying the value of **wa** by promoting a sense of unity and joy among participants.",
+            "trait": "Agreeableness",
+            "text": "Imagine you are helping to set up the decorations for the community festival in a small Japanese town, and a disagreement arises among a few neighbors about the design. How do you respond to restore harmony? Do you advocate for a compromise that incorporates everyone's ideas to foster collaboration, or do you prioritize your own vision, believing it to be the best solution for the event?"
+        },
+        {
+            "id": 5,
+            "scenario_id": 1,
+            "scenario_text": "1. During a community festival in a small Japanese town, neighbors work collaboratively to set up decorations and food stalls, ensuring that everyone contributes to the event’s success, embodying the value of **wa** by promoting a sense of unity and joy among participants.",
+            "trait": "Neuroticism",
+            "text": "Imagine you are involved in the preparation for the community festival in a small Japanese town when unexpected rain threatens to ruin the decorations. How do you react to this sudden change? Do you feel anxious and overwhelmed, worrying about the possible negative outcomes, or do you calmly assess the situation and focus on finding solutions to adapt to the weather?"
+        },
+        {
+            "id": 6,
+            "scenario_id": 2,
+            "scenario_text": "2. In a corporate meeting, employees prioritize consensus and group agreement over individual opinions, taking care to consider everyone’s perspective before making decisions, which reflects the cultural importance of **wa** in maintaining team harmony and avoiding conflict.",
+            "trait": "Openness",
+            "text": "Imagine you are in a corporate meeting where the group is discussing a new project proposal, and there is a suggestion to incorporate innovative ideas that challenge the traditional approach. How do you respond to this proposal? Do you embrace the opportunity to explore these new ideas and contribute your own creative thoughts, or do you prefer to play it safe and support the familiar methods that have worked in the past?"
+        },
+        {
+            "id": 7,
+            "scenario_id": 2,
+            "scenario_text": "2. In a corporate meeting, employees prioritize consensus and group agreement over individual opinions, taking care to consider everyone’s perspective before making decisions, which reflects the cultural importance of **wa** in maintaining team harmony and avoiding conflict.",
+            "trait": "Conscientiousness",
+            "text": "Imagine you are participating in a corporate meeting where the team is trying to reach a consensus on a critical project decision. As the discussion progresses, you notice that some details have been overlooked, which could lead to issues later on. How do you respond? Do you take the initiative to outline a detailed action plan, ensuring that all aspects are covered and everyone’s opinions are incorporated, or do you follow the group’s lead, trusting that the collective agreement will guide the decision-making effectively?"
+        },
+        {
+            "id": 8,
+            "scenario_id": 2,
+            "scenario_text": "2. In a corporate meeting, employees prioritize consensus and group agreement over individual opinions, taking care to consider everyone’s perspective before making decisions, which reflects the cultural importance of **wa** in maintaining team harmony and avoiding conflict.",
+            "trait": "Extraversion",
+            "text": "Imagine you are attending a corporate meeting where everyone is encouraged to voice their thoughts and ideas, and you notice that some team members are more reserved than others. How do you engage in the discussion? Do you actively seek out these quieter colleagues to encourage their input and create a lively conversation, or do you prefer to focus on sharing your own ideas without drawing attention to others?"
+        },
+        {
+            "id": 9,
+            "scenario_id": 2,
+            "scenario_text": "2. In a corporate meeting, employees prioritize consensus and group agreement over individual opinions, taking care to consider everyone’s perspective before making decisions, which reflects the cultural importance of **wa** in maintaining team harmony and avoiding conflict.",
+            "trait": "Agreeableness",
+            "text": "Imagine you are in a corporate meeting where a decision must be made that affects the entire team. As discussions unfold, you notice some colleagues disagreeing with the majority opinion. How do you handle the situation? Do you advocate for a more inclusive approach, encouraging the dissenting voices to share their concerns in order to maintain harmony, or do you support the group's consensus to keep the peace, even if it means sidelining some viewpoints?"
+        },
+        {
+            "id": 10,
+            "scenario_id": 2,
+            "scenario_text": "2. In a corporate meeting, employees prioritize consensus and group agreement over individual opinions, taking care to consider everyone’s perspective before making decisions, which reflects the cultural importance of **wa** in maintaining team harmony and avoiding conflict.",
+            "trait": "Neuroticism",
+            "text": "Imagine you are in a corporate meeting where discussions are becoming heated as team members debate a crucial project decision. As the tension rises, how do you react? Do you feel anxious about the potential conflict and worry about how it might affect your relationships with colleagues, or do you stay calm and focused, believing that constructive disagreements can lead to better solutions regardless of the intensity of the discussion?"
+        }
+    ]
+}

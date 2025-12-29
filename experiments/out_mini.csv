@@ -1,0 +1,66 @@
+a_prob,b_prob,c_prob,d_prob,e_prob,prompt
+-5.4920454,-inf,-inf,-inf,-inf,"
+        You are someone who was born and brought up in japan.
+        You are very familiar with japan's culture and traditions and practice many of them, two of which include: Japanese culture highly values harmony (wa) within communities, emphasizing the importance of fitting in and maintaining peaceful relations over individual desires. and Respect for hierarchy is ingrained in Japanese society, where age, experience, and authority command significant respect and influence social interactions..
+        Please read the following statement carefully and choose the answer that best describes you.
+        Question: Imagine you are at a Japanese family gathering where some guests introduce a fusion dish combining traditional Japanese flavors with international cuisine. How do you respond to trying the new dish, and what influences your reaction?
+        Answers:
+            a: I'm quite interested in trying the dish and appreciate the creativity involved, though I'll also enjoy familiar flavors if available.
+            b: I'd rather enjoy the traditional dishes I'm used to, as I'm not very inclined to experiment with unfamiliar food combinations.
+            c: I'm eager to try this new dish and explore the unique blend of flavors without hesitation, as I love discovering new culinary experiences.
+            d: I'm willing to try it to see how the flavors come together, but I also prefer to have some traditional dishes to rely on.
+            e: I might try it out of curiosity, but I feel more comfortable sticking to traditional dishes and tastes I know well.
+        Please respond with ONLY a, b, c, d, e.
+        "
+-inf,-inf,-4.1776047,-inf,-inf,"
+        You are someone who was born and brought up in japan.
+        You are very familiar with japan's culture and traditions and practice many of them, two of which include: Japanese culture highly values harmony (wa) within communities, emphasizing the importance of fitting in and maintaining peaceful relations over individual desires. and Respect for hierarchy is ingrained in Japanese society, where age, experience, and authority command significant respect and influence social interactions..
+        Please read the following statement carefully and choose the answer that best describes you.
+        Question: In a bustling Tokyo office, a young employee greets the company director with a deep bow before presenting the report. Assume you are in the position of the young employee. Before the meeting with the director, how would you ensure that your report is not only thoroughly checked for errors but also perfectly formatted?
+        Answers:
+            a: I would carefully proofread it and ask a peer to review for any overlooked details before finalizing the format.
+            b: I’d glance at it briefly, assuming the initial draft was already good enough.
+            c: I would triple-check every detail, cross-reference all data, and have colleagues review it to ensure absolute perfection.
+            d: I would review it a couple of times and ensure that the format follows the usual standards.
+            e: I would quickly skim through for obvious errors and trust the basic formatting is sufficient.
+        Please respond with ONLY a, b, c, d, e.
+        "
+-inf,-inf,-inf,-5.9207883,-inf,"
+        You are someone who was born and brought up in japan.
+        You are very familiar with japan's culture and traditions and practice many of them, two of which include: Japanese culture highly values harmony (wa) within communities, emphasizing the importance of fitting in and maintaining peaceful relations over individual desires. and Respect for hierarchy is ingrained in Japanese society, where age, experience, and authority command significant respect and influence social interactions..
+        Please read the following statement carefully and choose the answer that best describes you.
+        Question: While navigating the packed train, you spot a familiar face from work you've never spoken to. How do you engage with them, if at all, in this closely confined environment where social interactions are often minimized?
+        Answers:
+            a: I smile, introduce myself, and exchange a few words, perhaps discussing recent work events.
+            b: I choose not to engage and keep to myself, respecting the quiet atmosphere of the train.
+            c: I enthusiastically greet them with a smile and start a conversation about work and personal interests.
+            d: I give a polite nod and acknowledge their presence without initiating a deep conversation.
+            e: I might make brief eye contact and give a small nod but avoid initiating a conversation.
+        Please respond with ONLY a, b, c, d, e.
+        "
+-inf,-inf,-5.2028413,-inf,-inf,"
+        You are someone who was born and brought up in japan.
+        You are very familiar with japan's culture and traditions and practice many of them, two of which include: Japanese culture highly values harmony (wa) within communities, emphasizing the importance of fitting in and maintaining peaceful relations over individual desires. and Respect for hierarchy is ingrained in Japanese society, where age, experience, and authority command significant respect and influence social interactions..
+        Please read the following statement carefully and choose the answer that best describes you.
+        Question: While navigating a crowded train, you notice the elderly person looking unsteady. How do you ensure their safety while considering the dynamics of the crowded space?
+        Answers:
+            a: I politely ask the person next to me if we can help the elderly person find a stable spot or a seat nearby.
+            b: I stay alert to their movements but assume others closer will assist them if necessary.
+            c: I promptly offer my seat to the elderly person, ensuring they are securely seated, and ask others around to give them some space.
+            d: I check if there's a handle or pole nearby that the elderly person can hold onto and suggest it to them.
+            e: I make eye contact with the elderly person, ready to offer assistance if they seem to need it.
+        Please respond with ONLY a, b, c, d, e.
+        "
+-inf,-inf,-inf,-inf,-inf,"
+        You are someone who was born and brought up in japan.
+        You are very familiar with japan's culture and traditions and practice many of them, two of which include: Japanese culture highly values harmony (wa) within communities, emphasizing the importance of fitting in and maintaining peaceful relations over individual desires. and Respect for hierarchy is ingrained in Japanese society, where age, experience, and authority command significant respect and influence social interactions..
+        Please read the following statement carefully and choose the answer that best describes you.
+        Question: Imagine you are serving tea, and you accidentally spill a small amount. How do you react to this unexpected mistake in front of your master?
+        Answers:
+            a: I feel quite anxious and apologize profusely, hoping this doesn't affect their opinion of my diligence.
+            b: I simply apologize and calmly clean up the spill, understanding that such minor mistakes are a natural part of learning.
+            c: I immediately feel extremely embarrassed and worry that my master will be very disappointed in me, and I keep thinking about it for the rest of the day.
+            d: I acknowledge my mistake and apologize sincerely, deciding to be more careful in the future but accepting that mistakes happen.
+            e: I apologize and make a mental note to be more attentive, but quickly move on without too much worry.
+        Please respond with ONLY a, b, c, d, e.
+        "
