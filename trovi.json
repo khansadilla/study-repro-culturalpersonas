@@ -1,0 +1,16 @@
+{
+  "name": "CulturalPersonas MCS Reproduction",
+  "type": "reproduction",
+  "description": "Reproduction study of the Multiple Choice Selection (MCS) experiments from the CulturalPersonas benchmark.",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/khansadilla/study-repro-culturalpersonas"
+  },
+  "tags": [
+    "llm",
+    "personality",
+    "culture",
+    "benchmark",
+    "reproduction"
+  ]
+}
